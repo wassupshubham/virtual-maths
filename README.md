@@ -42,9 +42,6 @@ Visit Us : https://shubhamsharma23.pythonanywhere.com/
     ```bash
     python Main.py
     ```
-
-5. Open the application in your browser at [http://127.0.0.1:5000](http://127.0.0.1:5000).
-
 ---
 
 ## Usage
